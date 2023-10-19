@@ -33,7 +33,7 @@ echo "done";
 else
 echo "error";
    
- //header ('location: http://localhost/registraion form/index.php');
+ //header ('location: http://localhost/registraion_form/home.php');
     
  $stmt->close(); 
  $conn->close();
